@@ -1,3 +1,9 @@
+"""
+Description : Portenta H7 vision shield example to send JPEG image over UART to esp32
+Date : 2023-10-04
+By: Aaron Gumba
+"""
+
 import sensor, image, time,pyb
 from pyb import UART
 uart = UART(1, 115200, timeout_char=1000)    # or machine.UART('P4',115200) on Portenta
