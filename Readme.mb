@@ -2,7 +2,7 @@
 # Portenta H7 vision displaying on TFT 🚀
 
 This project shows how to receive JPEG images from H7 over UART and display them on a TFT screen using an ESP32.
-![Demo running on Portenta H7](images/demo.jpg)
+![Demo](demo.jpg)
 
 ## Features
 - UART communication
