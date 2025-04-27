@@ -13,4 +13,3 @@ This project shows how to send the live camera POV from the H7 by sending JPEG i
 ## Hardware
 - ESP32 Pin 16 & 17 -> Portenta UART 1 
 - TFT_eSPI compatible screen
-- JPEG source (camera or PC)
